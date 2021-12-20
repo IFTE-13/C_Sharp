@@ -1,0 +1,14 @@
+C:\Users\iftep\source\repos\AccountManagementSolution\AccountManagementProject\bin\Debug\AccountManagementProject.exe.config
+C:\Users\iftep\source\repos\AccountManagementSolution\AccountManagementProject\bin\Debug\AccountManagementProject.exe
+C:\Users\iftep\source\repos\AccountManagementSolution\AccountManagementProject\bin\Debug\AccountManagementProject.pdb
+C:\Users\iftep\source\repos\AccountManagementSolution\AccountManagementProject\obj\Debug\AccountManagementProject.csproj.AssemblyReference.cache
+C:\Users\iftep\source\repos\AccountManagementSolution\AccountManagementProject\obj\Debug\AccountManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\iftep\source\repos\AccountManagementSolution\AccountManagementProject\obj\Debug\AccountManagementProject.exe
+C:\Users\iftep\source\repos\AccountManagementSolution\AccountManagementProject\obj\Debug\AccountManagementProject.pdb
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\AccountManagementSolution\AccountManagementProject\bin\Debug\AccountManagementProject.exe.config
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\AccountManagementSolution\AccountManagementProject\bin\Debug\AccountManagementProject.exe
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\AccountManagementSolution\AccountManagementProject\bin\Debug\AccountManagementProject.pdb
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\AccountManagementSolution\AccountManagementProject\obj\Debug\AccountManagementProject.csproj.AssemblyReference.cache
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\AccountManagementSolution\AccountManagementProject\obj\Debug\AccountManagementProject.csproj.CoreCompileInputs.cache
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\AccountManagementSolution\AccountManagementProject\obj\Debug\AccountManagementProject.exe
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\AccountManagementSolution\AccountManagementProject\obj\Debug\AccountManagementProject.pdb

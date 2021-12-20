@@ -1,0 +1,11 @@
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\bin\Debug\WFADataBaseProject.exe.config
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\bin\Debug\WFADataBaseProject.exe
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\bin\Debug\WFADataBaseProject.pdb
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\obj\Debug\WFADataBaseProject.csproj.AssemblyReference.cache
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\obj\Debug\WFADataBaseProject.DashBoard.resources
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\obj\Debug\WFADataBaseProject.FormLogin.resources
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\obj\Debug\WFADataBaseProject.Properties.Resources.resources
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\obj\Debug\WFADataBaseProject.csproj.GenerateResource.cache
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\obj\Debug\WFADataBaseProject.csproj.CoreCompileInputs.cache
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\obj\Debug\WFADataBaseProject.exe
+C:\Users\iftep\source\repos\WFADataBaseSolution\WFADataBaseProject\obj\Debug\WFADataBaseProject.pdb

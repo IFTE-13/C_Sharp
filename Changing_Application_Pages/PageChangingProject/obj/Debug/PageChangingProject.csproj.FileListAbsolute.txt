@@ -1,0 +1,11 @@
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\bin\Debug\PageChangingProject.exe.config
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\bin\Debug\PageChangingProject.exe
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\bin\Debug\PageChangingProject.pdb
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\obj\Debug\PageChangingProject.csproj.AssemblyReference.cache
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\obj\Debug\PageChangingProject.FirstForm.resources
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\obj\Debug\PageChangingProject.Properties.Resources.resources
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\obj\Debug\PageChangingProject.SecondForm.resources
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\obj\Debug\PageChangingProject.csproj.GenerateResource.cache
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\obj\Debug\PageChangingProject.csproj.CoreCompileInputs.cache
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\obj\Debug\PageChangingProject.exe
+C:\Users\iftep\source\repos\PageChangingSolution\PageChangingProject\obj\Debug\PageChangingProject.pdb

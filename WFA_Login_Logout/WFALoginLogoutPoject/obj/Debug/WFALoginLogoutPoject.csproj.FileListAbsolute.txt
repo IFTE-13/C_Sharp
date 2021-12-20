@@ -1,0 +1,12 @@
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\bin\Debug\WFALoginLogoutPoject.exe.config
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\bin\Debug\WFALoginLogoutPoject.exe
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\bin\Debug\WFALoginLogoutPoject.pdb
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\obj\Debug\WFALoginLogoutPoject.csproj.AssemblyReference.cache
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\obj\Debug\WFALoginLogoutPoject.Properties.Resources.resources
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\obj\Debug\WFALoginLogoutPoject.csproj.GenerateResource.cache
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\obj\Debug\WFALoginLogoutPoject.csproj.CoreCompileInputs.cache
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\obj\Debug\WFALoginLogoutPoject.exe
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\obj\Debug\WFALoginLogoutPoject.pdb
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\obj\Debug\WFALoginLogoutPoject.LoginForm.resources
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\obj\Debug\WFALoginLogoutPoject.Member.resources
+C:\Users\iftep\source\repos\WFALoginLogoutSolution\WFALoginLogoutPoject\obj\Debug\WFALoginLogoutPoject.Admin.resources

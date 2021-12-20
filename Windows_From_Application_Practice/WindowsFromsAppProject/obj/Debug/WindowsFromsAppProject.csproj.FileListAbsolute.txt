@@ -1,0 +1,11 @@
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\bin\Debug\WindowsFromsAppProject.exe.config
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\bin\Debug\WindowsFromsAppProject.exe
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\bin\Debug\WindowsFromsAppProject.pdb
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\obj\Debug\WindowsFromsAppProject.csproj.AssemblyReference.cache
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\obj\Debug\WindowsFromsAppProject.Properties.Resources.resources
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\obj\Debug\WindowsFromsAppProject.csproj.GenerateResource.cache
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\obj\Debug\WindowsFromsAppProject.csproj.CoreCompileInputs.cache
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\obj\Debug\WindowsFromsAppProject.exe
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\obj\Debug\WindowsFromsAppProject.pdb
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\obj\Debug\WindowsFromsAppProject.Form1.resources
+C:\Users\iftep\source\repos\WindowsFromsAppSolution\WindowsFromsAppProject\obj\Debug\WindowsFromsAppProject.FormStart.resources

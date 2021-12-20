@@ -1,0 +1,7 @@
+C:\Users\iftep\source\repos\PropertyPorject\Property\obj\Debug\Property.csproj.AssemblyReference.cache
+C:\Users\iftep\source\repos\PropertyPorject\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\Users\iftep\source\repos\PropertyPorject\Property\bin\Debug\Property.exe.config
+C:\Users\iftep\source\repos\PropertyPorject\Property\bin\Debug\Property.exe
+C:\Users\iftep\source\repos\PropertyPorject\Property\bin\Debug\Property.pdb
+C:\Users\iftep\source\repos\PropertyPorject\Property\obj\Debug\Property.exe
+C:\Users\iftep\source\repos\PropertyPorject\Property\obj\Debug\Property.pdb

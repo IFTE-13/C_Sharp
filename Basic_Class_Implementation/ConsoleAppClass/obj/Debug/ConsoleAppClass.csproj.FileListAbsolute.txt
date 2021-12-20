@@ -1,0 +1,7 @@
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\ConsoleAppClass\ConsoleAppClass\bin\Debug\ConsoleAppClass.exe.config
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\ConsoleAppClass\ConsoleAppClass\bin\Debug\ConsoleAppClass.exe
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\ConsoleAppClass\ConsoleAppClass\bin\Debug\ConsoleAppClass.pdb
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\ConsoleAppClass.csproj.AssemblyReference.cache
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\ConsoleAppClass.csproj.CoreCompileInputs.cache
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\ConsoleAppClass.exe
+G:\6th Semister\OBJECT ORIENTED PROGRAMMING 2\C#\ConsoleAppClass\ConsoleAppClass\obj\Debug\ConsoleAppClass.pdb

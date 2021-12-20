@@ -1,0 +1,7 @@
+C:\Users\iftep\source\repos\OfficeManagementSolution\OfficeManagementProject\bin\Debug\OfficeManagementProject.exe.config
+C:\Users\iftep\source\repos\OfficeManagementSolution\OfficeManagementProject\bin\Debug\OfficeManagementProject.exe
+C:\Users\iftep\source\repos\OfficeManagementSolution\OfficeManagementProject\bin\Debug\OfficeManagementProject.pdb
+C:\Users\iftep\source\repos\OfficeManagementSolution\OfficeManagementProject\obj\Debug\OfficeManagementProject.csproj.AssemblyReference.cache
+C:\Users\iftep\source\repos\OfficeManagementSolution\OfficeManagementProject\obj\Debug\OfficeManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\iftep\source\repos\OfficeManagementSolution\OfficeManagementProject\obj\Debug\OfficeManagementProject.exe
+C:\Users\iftep\source\repos\OfficeManagementSolution\OfficeManagementProject\obj\Debug\OfficeManagementProject.pdb
